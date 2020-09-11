@@ -1,7 +1,5 @@
 # FlappybirdAi
 Flappy bird with neural network AI
 
-Put the images in a folder named "IMGS". Or change the path in the variables in the code
-
-
-Libraries: time, os, pygame, neat, random.
+## REMEMBER
+Run the setup.py before you run the program to install required packages.
